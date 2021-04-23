@@ -1,0 +1,160 @@
+h1 i {
+  color: #ffc93c;
+  font-size: 83px;
+  position: relative;
+  left: 50px;
+  padding: 40px;
+}
+
+h2 {
+  color: #007580;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 0 100px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  color: #fb743e;
+  font-size: 18px;
+  padding: 0 100px;
+}
+
+p {
+  color: #007580;
+  font-size: 28px;
+  font-weight: bold;
+  position: relative;
+  top: 105px;
+  left: 70px;
+}
+
+.city {
+  position: relative;
+  top: 105px;
+  left: 70px;
+}
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 30px 60px;
+}
+
+.card {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  border: rounded;
+  margin-top: 10px;
+  margin-right: 80px;
+  margin-bottom: -10px;
+  padding: 0px;
+}
+
+.first {
+  position: relative;
+  right: -5px;
+  bottom: 40px;
+}
+
+.second {
+  position: relative;
+  left: 155px;
+  bottom: 40px;
+}
+
+.third {
+  position: relative;
+  left: 270px;
+  bottom: 40px;
+}
+
+.fourth {
+  position: relative;
+  left: 388px;
+  bottom: 40px;
+}
+
+.fifth {
+  position: relative;
+  left: 530px;
+  bottom: 40px;
+}
+
+.dayone {
+  position: relative;
+  bottom: 33px;
+  right: 0px;
+}
+
+.daytwo {
+  position: relative;
+  bottom: 33px;
+  left: 133px;
+}
+
+.daythree {
+  position: relative;
+  bottom: 33px;
+  left: 230px;
+}
+
+.dayfour {
+  position: relative;
+  bottom: 33px;
+  left: 315px;
+}
+
+.dayfive {
+  position: relative;
+  bottom: 33px;
+  left: 418px;
+}
+
+.now {
+  font-size: 60px;
+  font-weight: bold;
+  color: #fb743e;
+  position: relative;
+  top: 38px;
+  left: 55px;
+}
+
+.now-image {
+  color: #ffc93c;
+  font-size: 105px;
+  position: relative;
+  right: -285px;
+  bottom: 175px;
+}
+
+.max-min {
+  color: #fb743e;
+  font-size: 20px;
+  position: relative;
+  bottom: 145px;
+  left: 155px;
+}
+
+.description {
+  color: #fb743e;
+  font-size: 30px;
+  font-style: italic;
+  position: relative;
+  bottom: 130px;
+  left: 155px;
+}
+
+.col-6 {
+  position: relative;
+  bottom: 100px;
+  left: 505px;
+}
+
+.units {
+  position: relative;
+  top: -50px;
+  left: 135px;
+  font-size: 60px;
+  font-weight: bold;
+  color: #fb743e;
+}
